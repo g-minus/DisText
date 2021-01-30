@@ -1,0 +1,32 @@
+{
+  "app": {
+    "pages": [
+      {
+        "id": "main",
+        "action": "choice",
+        "choices": [
+          {
+            "text": "Request Help",
+            "action": "goto-page",
+            "page": "get-help"
+          },
+          {
+            "text": "Volunteer to Provide Help",
+            "action": "goto-page",
+            "page": "give-help"
+          },
+          {
+            "text": "Sign in to organization",
+            "action": "goto-page",
+            "page": "login"
+          },
+          {
+            "text": "hshshshshs",
+            "action": "goto-page",
+            "page": "login"
+          }
+        ]
+      }
+    ]
+  }
+}

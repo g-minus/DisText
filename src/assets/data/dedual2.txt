@@ -1,0 +1,32 @@
+name=dedual
+
+[[map]]
+2DK*=https://www.twitch.tv/2dk
+Horcrucks*=https://twitch.tv/horcrucksvr
+Zizuar*=https://twitch.tv/zizuar
+Gog*=https://twitch.tv/gogngog
+Nano*=https://www.twitch.tv/nanovr__
+Pegwin*=https://www.twitch.tv/pegwin2
+Tape*=https://www.twitch.tv/tape_rr
+VibrancyMoon*=https://www.twitch.tv/joker633366
+g-*=https://www.twitch.tv/gminus
+Sun=Sunday
+Mon=Monday
+Tu=Tuesday
+Wed=Wednesday
+Th=Thursday
+Fri=Friday
+Sat=Saturday
+Sun=Sunday
+
+[[inputtemplate]]
+[DOW] - [Mode]
+*[Team1]\t[]\t[]\t[]\t[Team2]\t[]\t[]\t[Day]\t[Time]\t[Official]*
+
+[[outputtemplate]]
+{sort:Time}
+Div # Matches for [map:DOW], [Day]
+*
+[Time] - PST - [Team1] vs [Team2] ([Team1] is Home Team)
+Official: [Official] (<[map:Official]>)
+Mode: [Mode]*
