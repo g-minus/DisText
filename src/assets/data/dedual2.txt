@@ -10,6 +10,7 @@ Pegwin*=https://www.twitch.tv/pegwin2
 Tape*=https://www.twitch.tv/tape_rr
 VibrancyMoon*=https://www.twitch.tv/joker633366
 g-*=https://www.twitch.tv/gminus
+Seanio*=https://www.twitch.tv/seanio
 Sun=Sunday
 Mon=Monday
 Tu=Tuesday
