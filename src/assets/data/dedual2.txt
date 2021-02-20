@@ -3,7 +3,7 @@ name=dedual
 [[map]]
 2DK*=https://www.twitch.tv/recroom2dk/
 Horcrucks*=https://twitch.tv/horcrucksvr
-Zizuar*=https://twitch.tv/zizuar
+Zizuar*=https://twitch.tv/FSONet
 Gog*=https://twitch.tv/gogngog
 Nano*=https://www.twitch.tv/nanovr__
 Pegwin*=https://www.twitch.tv/pegwin2
